@@ -14,7 +14,7 @@
 
 1) I learned what design thinking was. To define is simply and with non-technical terms: 1) define the problem 2) Create and consider many options 3) Refine selected directions 4) Pick winner and execute 
 
-2) I really enjoyed the process of design and user experience. I thought design thinking is a fantastic process to help solve problems. I'm pretty certain that I have used design thinking in solving many of my own problems, but I just did not know that there was a name for it. I thought it was pretty fun engaging in the wire framing process. Although I'm not the most creative, Balsamiq did a fantastic job in giving multiple templates for me to use. I definitely can see how this can serve to be an important process to many. However, I can also see how some do not really need to spend much time wire framing as others. It really all depends on how your mind works. For me, I feel that I will have to use wire framing a bit, because I would probably not be able to start my coding off a sketch I draw.
+2) I really enjoyed the process of design and user experience. I think design thinking is a fantastic process to help solve problems. I'm pretty certain that I have used design thinking in solving many of my own problems, but I just did not know that there was a name for the process. I thought it was pretty fun engaging in the wire framing process. Although I'm not the most creative, Balsamiq did a fantastic job in giving multiple templates for me to use. I definitely can see how this can serve to be an important process to many. However, I can also see how some do not really need to spend much time wire framing as others. It really all depends on how your mind works. For me, I feel that I will have to use wire framing a bit, because I would probably not be able to start my coding off a sketch I draw.
 
 3) Some questions I had was that I wonder which wireframe program most web developers used. I also wondered how important and unimportant wire framing can be to certain developers. 
 
@@ -27,4 +27,4 @@
 7) Wire framing is like art. The more tedious and detailed you are, the better overall picture you can create. I felt that Balsamiq had so many options that entering them all felt like forever. 
 
 
-http://imgur.com/a/abZ0L (the link to my sketch)
+http://imgur.com/a/abZ0L
