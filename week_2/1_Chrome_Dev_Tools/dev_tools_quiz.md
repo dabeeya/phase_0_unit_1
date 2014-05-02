@@ -25,3 +25,14 @@
   * Explain how you would find out this information, and list the URL of offending image here and how big it is.
 
 * Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?
+
+1)  Real time editing: Elements Tab. From the elements tab you can see the HTML code and CSS side by side. You also have the power to make any changes you would, but keep in mind that the changes will not be saved onto the main web page, but mainly just for your own personal use.
+2)  JavaScript Debugging: Console Sources Tab. From the Console, you can find which element seems to be creating your problem. Then as you go on to the sources tab, you can pause the element from there and make any necessary changes. 
+3)  Performance Optimization: Networks, Timeline and Profiles Tab. With the network tab, you can see everything the webpage requests of the code and see the method, status, type, initiator, size and time. The profile tab allows you to collect the JavaScript CPU profile or take a heap snapshot. You are also able to compare different snapshots as well.
+4)  The quick key to open up Dev Tools Inspector is to right click on a specific element you want to inspect and select Inspect Element. Or you can click on the magnifying glass as well and click an element you want to inspect.
+5)  The current background color for www.postmachina.com is #0b0f11. 
+6)  The largest image is 92624182-c482-4a35-8da2-4fbf2f502e94_Large_Large.png.  It is the image that listed as featured events on the web page.
+7)  The way to find the largest image is to open up Dev Tools and go to the networks tab. Then, you would need click on the clear button and refresh the web page. Once refreshed, you will get a whole list of things that were requested. From there, you would sort the file size from largest to smallest and find the largest image. The size of the image is 316 KB.
+8)  The easiest thing to do would probably have to be to minimize the payload. That would entail to minify any of the code that was written to create the webpage.  If you minify the CSS portion only, you can save 4.6 KiB.
+
+link to Codeschool score and postmachina image http://imgur.com/a/uzdf2
