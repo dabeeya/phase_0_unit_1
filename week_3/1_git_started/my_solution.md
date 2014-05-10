@@ -3,34 +3,35 @@ Define the following commands and describe how they work/what they do.
 
 
 #### add
-<!-- Your defnition here -->
+The add command will 
 
 #### branch
-<!-- Your defnition here -->
+Working with multiple collaborators and want to make changes on your own? This command will let you build a new branch, or timeline of commits, of changes and file additions that are completely your own. Your title goes after the command. If you wanted a new branch called “cats,” you’d type git branch cats.
 
 #### checkout
-<!-- Your defnition here -->
+Literally allows you to “check out” a repository that you are not currently inside. This is a navigational command that lets you move to the repository you want to check. You can use this command as git checkout master to look at the master branch, or git checkout cats to look at another branch.
 
 #### clone
-<!-- Your defnition here -->
+This command allows you to 
 
 #### commit
-<!-- Your defnition here -->
+This is kind of like the save button on Microsoft Word. You commit any changes you make, which allows the Git to take a screenshot of the changes you made. It's important to add a message with each commit, to let you and others know what changes you have made to the repository.
 
 #### fetch
-<!-- Your defnition here -->
+this command will find any changes made to a master branch, and allow you to pull the changes to your branch.
 
 #### log
-<!-- Your defnition here -->
 
 #### merge
-<!-- Your defnition here -->
+If you and a partner are working on the same project but on different sections, this command will allow to take the 2 different "screenshots", and combine the work together.
 
 #### pull
-<!-- Your defnition here -->
+if you’re working on your local computer and want the most up-to-date version of your repository to work with, you “pull” the changes down from GitHub with this command.
+
 
 #### push
-<!-- Your defnition here -->
+the push command will allow you to take any of the local changes you made on your repository, an
+
 
 #### reset
 <!-- Your defnition here -->
@@ -39,6 +40,7 @@ Define the following commands and describe how they work/what they do.
 <!-- Your defnition here -->
 
 #### status
+status - this command will check the status of your repository. It basically give you an overview of which files are in it, which changes needs to be committed, and which branch of the repository you are currently work on. It helps to keep checking the status just to be safe and see what files need to be added and committed. 
 
 
 ## Release 4: Git Workflow
@@ -48,3 +50,7 @@ Define the following commands and describe how they work/what they do.
 - Commit locally
 
 ## Release 5: Reflection
+
+1) There weren't any strategies that I had to come up with when learning how to use git and its basic command functions. I think the biggest issue I faced was that I knew when I had to use each command, however, I had trouble trying to remember why each command was necessary and what it was used for. 
+
+2) Although there wasn't any code to work on during this challenege, it's important to famalirize yourself using git with constat practice. With the help of office hours, I was able to learn how to use git step by step. 
