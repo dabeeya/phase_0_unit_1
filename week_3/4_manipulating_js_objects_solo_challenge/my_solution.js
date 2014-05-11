@@ -45,8 +45,16 @@ var terah = {
 
 // __________________________________________
 // Write your code below.
-
-
+var adam = { name: 'Adam'};
+terah.spouse = adam;
+terah.weight = 125;
+delete terah.eyeColor;
+adam.spouse = terah;
+terah.children = {};
+terah.children.carson = {name: 'Carson'};
+terah.children.carter = {name: 'Carter'};
+terah.children.colton = {name: 'Colton'};
+adam.children = terah.children;
 
 
 
@@ -55,12 +63,21 @@ var terah = {
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
+// - My strategy to comeplete this challegene was to take it step by step. So, as I finished one section, I
+// run my code through the terminal to make sure that it passed the test. The strategy was working fine
+// until I hit a speedbump. I had a problem trying to pass the test for the children. I wasn't sure how to
+// go about this issue. At first, I tried to follow the guide from the intro to JavaScript we were supposed
+// to read. I tried adding an . But it did not seem to work. So after a lot of trial and error, almost inputing 
+// anything I could think of, I was able to come up with a piece of code that passed the tests.
+// - I was able to answer most of the questions I had from rereeading the guide we were instructed to read.
+// - I was having some trouble trying to add a nonexistent propery to an object. 
+// - I think I was able to have a better understanding of adding a new property. But I am still uncertain
+// it is the most effiecient way.
+// - I enjoyed the parts when I saw true for each test!
+// - The most tedious thing for this project would have to be using a guess and check method. As I said 
+// before I was facing issues trying to add the children in. It took a me a lot of rereading and guessing
+// to find code that would pass the test.
+
 
 
 // __________________________________________
