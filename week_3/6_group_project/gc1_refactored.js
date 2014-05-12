@@ -66,3 +66,9 @@ median(evenLengthArray);
 
 
 //My Reflection
+//The group project was a pretty interesting experience. It allowed a group of people to work on one project, with
+//each person having their own responsibilities. Dylan and I had to work together on refactoring and creating
+//a user story because of a slight miscommunication error. Our group was successful in passing the test 
+//because Dylan and I checked before passing it back to person 1. I realized that refactoring is pretty
+//tough at the level I am at because everything seems pretty simple and basic. However, after looking over
+//the code constantly, Dylan and I were able to refactor certain codes to make it a bit "prettier".
